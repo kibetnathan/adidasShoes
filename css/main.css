@@ -1,0 +1,58 @@
+body
+     {font-family: 'Kalam', cursive;
+		 background-color: beige;
+		 
+}
+.container{
+				
+		background-image: url(images/logo1.jpg)
+			}
+			.History{
+				color: gold;
+				text-align: center;
+	
+			}
+			.histry{
+				background-color:#04DBFF;
+				text-align: center;
+			}
+			.Earlydays{
+				color:firebrick;
+				
+			}
+			.earlydez{
+				color:darkblue;
+		
+			}
+			.rivalry{
+				color:blueviolet;
+		
+			}
+			.rivals{
+				color:chartreuse;
+		
+			}
+h2{
+	font-size: 45px;
+	
+}
+p{
+	font-size: 35px;
+	background-color: aqua;
+	color: crimson;
+}
+p:first-letter{
+	font-size: 300%;
+	display: block;
+	margin: 2px;
+	float: left;
+	color:wheat;
+}
+	h1{
+	font-size: 65px;
+	
+}
+		
+		
+		
+		
